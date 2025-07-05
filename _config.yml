@@ -22,10 +22,9 @@ title: Chris's Corner
 email: Amoxyz@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog where I try to recreate the feeling of the old internet. I'll tak about a bit of everything.
-  Feel free to email or tweet me, with any ideas or criticisms.
+  Feel free to email me, with any ideas or criticisms.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "Amoxyz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Amoxyz
+url: "https://Amoxyz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Amoxyz
 
 # Build settings
